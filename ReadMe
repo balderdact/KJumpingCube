@@ -1,6 +1,6 @@
 To run the program, go to your directory where the
 "jump61" folder is (but not into the jump61 folder).
-Then run the command: java -ea jump61.Main
+Then run the commands 'make' and 'java -ea jump61.Main'
 
 Once the program starts, run 'help' to see a list of commands.
 See 'specifications.pdf' for the rules of the game.
