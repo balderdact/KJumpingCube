@@ -1,0 +1,7 @@
+=======USAGE=======
+To run the program, go to your directory where the
+"jump61" folder is (but not into the jump61 folder).
+Then run the command: java -ea jump61.Main
+If you want to play the game with a graphical interface
+then run the command: java -ea jump61.Main --display
+===================

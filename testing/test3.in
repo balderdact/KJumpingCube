@@ -1,0 +1,10 @@
+# Tests that there is a victory for 2x2.
+java -ea jump61.Main
+None
+===#1===
+size 2
+auto red
+start
+%rb
+quit
+===#2===

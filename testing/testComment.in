@@ -1,0 +1,9 @@
+java -ea jump61.Main
+None
+===#1===
+size 3
+set 1 1 1 r # Comment
+# Another comment
+dump
+quit
+===#2===

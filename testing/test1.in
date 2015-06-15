@@ -1,0 +1,10 @@
+# Tests set for 3x3.
+java -ea jump61.Main
+None
+===#1===
+size 3
+start
+set 2 2 3 r
+dump
+quit
+===#2===

@@ -1,0 +1,20 @@
+# AI vs. AI.
+java -ea jump61.Main
+java -ea jump61.Main
+===#1===
+size 3
+manual red
+auto blue
+start
+%ir...
+%e
+quit
+===#2===
+size 3
+auto red
+manual blue
+start
+%mr
+%ib...
+%e
+quit
